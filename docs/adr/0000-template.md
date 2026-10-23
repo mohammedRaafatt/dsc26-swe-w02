@@ -1,0 +1,10 @@
+# NNNN. Title
+
+## Status
+Proposed
+
+## Context
+
+## Decision
+
+## Consequences
